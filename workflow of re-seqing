@@ -1,0 +1,4 @@
+# Re-seqing
+### install softwares
+conda create -n reseq
+conda activate reseq
